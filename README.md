@@ -2,7 +2,7 @@
 This project analyzes bikeshare data for Udacity Nanodegree.
 
 # bikeshare-project
-||||||| parent of cbd2188 (Add usage instructions to README)
+Adding files
 =======
 ## Run Readme
 Run Explore_bikeshare_data-with-Viz.ipynb using Jupyter Notebook.
@@ -13,4 +13,3 @@ Run Explore_bikeshare_data-with-Viz.ipynb using Jupyter Notebook.
 =======
 ## Project Description
 This program lets users filter and explore bikeshare data.
- (Add project description to README)
