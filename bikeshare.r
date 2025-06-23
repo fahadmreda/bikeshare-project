@@ -1,6 +1,6 @@
 #Turn warnings off
 options(warn = -1)
-#Import
+#Importing libraries
 library(readr)
 library(ggplot2) 
 
