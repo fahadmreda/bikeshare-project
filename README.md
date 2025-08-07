@@ -6,5 +6,11 @@ This project analyzes bikeshare data for Udacity Nanodegree.
 =======
 ## Run Readme
 Run Explore_bikeshare_data-with-Viz.ipynb using Jupyter Notebook.
- cbd2188 (Add usage instructions to README)
+
+  (Add usage instructions to README)
  adding files
+ parent of a8dac2e (Add project description to README)
+=======
+## Project Description
+This program lets users filter and explore bikeshare data.
+ (Add project description to README)
