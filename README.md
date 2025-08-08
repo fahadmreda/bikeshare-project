@@ -28,4 +28,4 @@ Birth Year
 The original files are much larger and messier, and you don't need to download them, but they can be accessed here if you'd like to see them (Chicago, New York City, Washington). These files had more columns and they differed in format in many cases. Some data wrangling has been performed to condense these files to the above core six columns to make your analysis and the evaluation of your Python skills more straightforward.
 
 ### Credits
-[Programming for Data Science with Python] (https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
+[Programming for Data Science with Python](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104)
