@@ -1,5 +1,10 @@
 #Turn warnings off
 options(warn = -1)
+
+
+
+#Importing all the datasets 
+=======
 #Importing libraries
 library(readr)
 library(ggplot2) 
@@ -7,6 +12,7 @@ library(ggplot2)
 #hello
 
 #Let's Import all the datasets 
+ main
 ny <- read_csv("new_york_city.csv")
 wash <- read_csv("washington.csv")
 chi <- read_csv("chicago.csv")
