@@ -1,4 +1,10 @@
-__pycache__/
-*.pyc
-.DS_Store
-README.md
+# Ignore specific CSV files
+chicago.csv
+washington.csv
+new_york_city.csv
+
+# Ignore all CSV files
+*.csv
+
+
+
